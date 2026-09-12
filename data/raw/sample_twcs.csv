@@ -1,0 +1,441 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+100000,cust_1000,True,Sun Mar 01 09:00:00 +0000 2026,"@AmazonHelp package for 786579303 says delivered but nothing on my porch, been 3 days now",100001,
+100001,AmazonHelp,False,Sun Mar 01 09:07:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100000
+100002,cust_1001,True,Sun Mar 01 09:14:00 +0000 2026,"@AmazonHelp quick q - has 890779946 shipped yet? this is the last straw, get me a manager",100003,
+100003,AmazonHelp,False,Sun Mar 01 09:21:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100002
+100004,cust_1002,True,Sun Mar 01 09:28:00 +0000 2026,"@AmazonHelp return label for 349817734 isn't working, can you resend",100005,
+100005,AmazonHelp,False,Sun Mar 01 09:35:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100004
+100006,cust_1003,True,Sun Mar 01 09:42:00 +0000 2026,"@AmazonHelp box for 969119330 was empty when i opened it, no product inside",100007,
+100007,AmazonHelp,False,Sun Mar 01 09:49:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100006
+100008,cust_1004,True,Sun Mar 01 09:56:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked? i want to speak to a real human right now",100009,
+100009,AmazonHelp,False,Sun Mar 01 10:03:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100008
+100010,cust_1005,True,Sun Mar 01 10:10:00 +0000 2026,"@AmazonHelp charged twice for order 966647391, please refund the duplicate immediately",100011,
+100011,AmazonHelp,False,Sun Mar 01 10:17:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100010
+100012,cust_1006,True,Sun Mar 01 10:24:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100013,
+100013,AmazonHelp,False,Sun Mar 01 10:31:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100012
+100014,cust_1007,True,Sun Mar 01 10:38:00 +0000 2026,"@AmazonHelp tracking hasn't updated in 5 days for order 810026086, is it lost??",100015,
+100015,AmazonHelp,False,Sun Mar 01 10:45:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100014
+100016,cust_1008,True,Sun Mar 01 10:52:00 +0000 2026,@AmazonHelp is order 398471886 still on track for the delivery date shown?,100017,
+100017,AmazonHelp,False,Sun Mar 01 10:59:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100016
+100018,cust_1009,True,Sun Mar 01 11:06:00 +0000 2026,"@AmazonHelp how do i return 853573823, wrong size and box is unopened",100019,
+100019,AmazonHelp,False,Sun Mar 01 11:13:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100018
+100020,cust_1010,True,Sun Mar 01 11:20:00 +0000 2026,"@AmazonHelp got the wrong item for order 275452091, ordered a charger got headphones",100021,
+100021,AmazonHelp,False,Sun Mar 01 11:27:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100020
+100022,cust_1011,True,Sun Mar 01 11:34:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now i will never order from you again, cancel everything",100023,
+100023,AmazonHelp,False,Sun Mar 01 11:41:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100022
+100024,cust_1012,True,Sun Mar 01 11:48:00 +0000 2026,@AmazonHelp still being charged for a subscription i cancelled last month,100025,
+100025,AmazonHelp,False,Sun Mar 01 11:55:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100024
+100026,cust_1013,True,Sun Mar 01 12:02:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100027,
+100027,AmazonHelp,False,Sun Mar 01 12:09:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100026
+100028,cust_1014,True,Sun Mar 01 12:16:00 +0000 2026,@AmazonHelp my order #647099690 was supposed to arrive 9 days ago and it's still not here. what's going on,100029,
+100029,AmazonHelp,False,Sun Mar 01 12:23:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100028
+100030,cust_1015,True,Sun Mar 01 12:30:00 +0000 2026,@AmazonHelp quick q - has 950488739 shipped yet?,100031,
+100031,AmazonHelp,False,Sun Mar 01 12:37:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100030
+100032,cust_1016,True,Sun Mar 01 12:44:00 +0000 2026,"@AmazonHelp i returned item from order 668132202 2 weeks ago, refund never came",100033,
+100033,AmazonHelp,False,Sun Mar 01 12:51:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100032
+100034,cust_1017,True,Sun Mar 01 12:58:00 +0000 2026,"@AmazonHelp box for 925276600 was empty when i opened it, no product inside",100035,
+100035,AmazonHelp,False,Sun Mar 01 13:05:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100034
+100036,cust_1018,True,Sun Mar 01 13:12:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100037,
+100037,AmazonHelp,False,Sun Mar 01 13:19:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100036
+100038,cust_1019,True,Sun Mar 01 13:26:00 +0000 2026,@AmazonHelp why was i charged $7.50 more than the price shown at checkout for 786066793,100039,
+100039,AmazonHelp,False,Sun Mar 01 13:33:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100038
+100040,cust_1020,True,Sun Mar 01 13:40:00 +0000 2026,"@AmazonHelp just wanted to say the packaging for 743111853 was excellent, thank you",100041,
+100041,AmazonHelp,False,Sun Mar 01 13:47:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100040
+100042,cust_1021,True,Sun Mar 01 13:54:00 +0000 2026,@AmazonHelp my order #357109965 was supposed to arrive 2 days ago and it's still not here. what's going on this is fraud and i'm disputing it with my bank,100043,
+100043,AmazonHelp,False,Sun Mar 01 14:01:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100042
+100044,cust_1022,True,Sun Mar 01 14:08:00 +0000 2026,@AmazonHelp quick q - has 916690353 shipped yet?,100045,
+100045,AmazonHelp,False,Sun Mar 01 14:15:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100044
+100046,cust_1023,True,Sun Mar 01 14:22:00 +0000 2026,"@AmazonHelp how do i return 384602384, wrong size and box is unopened",100047,
+100047,AmazonHelp,False,Sun Mar 01 14:29:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100046
+100048,cust_1024,True,Sun Mar 01 14:36:00 +0000 2026,"@AmazonHelp box for 821218382 was empty when i opened it, no product inside",100049,
+100049,AmazonHelp,False,Sun Mar 01 14:43:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100048
+100050,cust_1025,True,Sun Mar 01 14:50:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100051,
+100051,AmazonHelp,False,Sun Mar 01 14:57:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100050
+100052,cust_1026,True,Sun Mar 01 15:04:00 +0000 2026,"@AmazonHelp charged twice for order 176228245, please refund the duplicate immediately",100053,
+100053,AmazonHelp,False,Sun Mar 01 15:11:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100052
+100054,cust_1027,True,Sun Mar 01 15:18:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100055,
+100055,AmazonHelp,False,Sun Mar 01 15:25:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100054
+100056,cust_1028,True,Sun Mar 01 15:32:00 +0000 2026,"still waiting on 876693898, 9 days late @AmazonHelp this is ridiculous for a prime order",100057,
+100057,AmazonHelp,False,Sun Mar 01 15:39:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100056
+100058,cust_1029,True,Sun Mar 01 15:46:00 +0000 2026,@AmazonHelp quick q - has 807577342 shipped yet?,100059,
+100059,AmazonHelp,False,Sun Mar 01 15:53:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100058
+100060,cust_1030,True,Sun Mar 01 16:00:00 +0000 2026,"@AmazonHelp requesting a refund for 823019672, item not as described",100061,
+100061,AmazonHelp,False,Sun Mar 01 16:07:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100060
+100062,cust_1031,True,Sun Mar 01 16:14:00 +0000 2026,"@AmazonHelp box for 366992705 was empty when i opened it, no product inside",100063,
+100063,AmazonHelp,False,Sun Mar 01 16:21:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100062
+100064,cust_1032,True,Sun Mar 01 16:28:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked?",100065,
+100065,AmazonHelp,False,Sun Mar 01 16:35:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100064
+100066,cust_1033,True,Sun Mar 01 16:42:00 +0000 2026,@AmazonHelp why was i charged $4.00 more than the price shown at checkout for 154318806,100067,
+100067,AmazonHelp,False,Sun Mar 01 16:49:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100066
+100068,cust_1034,True,Sun Mar 01 16:56:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise this is fraud and i'm disputing it with my bank",100069,
+100069,AmazonHelp,False,Sun Mar 01 17:03:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100068
+100070,cust_1035,True,Sun Mar 01 17:10:00 +0000 2026,"still waiting on 941889393, 9 days late @AmazonHelp this is ridiculous for a prime order",100071,
+100071,AmazonHelp,False,Sun Mar 01 17:17:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100070
+100072,cust_1036,True,Sun Mar 01 17:24:00 +0000 2026,@AmazonHelp hey can you tell me the status of order 333754555? placed it last week,100073,
+100073,AmazonHelp,False,Sun Mar 01 17:31:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100072
+100074,cust_1037,True,Sun Mar 01 17:38:00 +0000 2026,"@AmazonHelp how do i return 153839920, wrong size and box is unopened i will never order from you again, cancel everything",100075,
+100075,AmazonHelp,False,Sun Mar 01 17:45:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100074
+100076,cust_1038,True,Sun Mar 01 17:52:00 +0000 2026,"@AmazonHelp got the wrong item for order 299528037, ordered a charger got headphones",100077,
+100077,AmazonHelp,False,Sun Mar 01 17:59:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100076
+100078,cust_1039,True,Sun Mar 01 18:06:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked?",100079,
+100079,AmazonHelp,False,Sun Mar 01 18:13:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100078
+100080,cust_1040,True,Sun Mar 01 18:20:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100081,
+100081,AmazonHelp,False,Sun Mar 01 18:27:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100080
+100082,cust_1041,True,Sun Mar 01 18:34:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100083,
+100083,AmazonHelp,False,Sun Mar 01 18:41:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100082
+100084,cust_1042,True,Sun Mar 01 18:48:00 +0000 2026,"@AmazonHelp package for 207354053 says delivered but nothing on my porch, been 3 days now",100085,
+100085,AmazonHelp,False,Sun Mar 01 18:55:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100084
+100086,cust_1043,True,Sun Mar 01 19:02:00 +0000 2026,@AmazonHelp when will 173864104 ship? no update since i ordered,100087,
+100087,AmazonHelp,False,Sun Mar 01 19:09:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100086
+100088,cust_1044,True,Sun Mar 01 19:16:00 +0000 2026,"@AmazonHelp i returned item from order 756783995 2 weeks ago, refund never came",100089,
+100089,AmazonHelp,False,Sun Mar 01 19:23:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100088
+100090,cust_1045,True,Sun Mar 01 19:30:00 +0000 2026,"@AmazonHelp got the wrong item for order 383968123, ordered a charger got headphones",100091,
+100091,AmazonHelp,False,Sun Mar 01 19:37:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100090
+100092,cust_1046,True,Sun Mar 01 19:44:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100093,
+100093,AmazonHelp,False,Sun Mar 01 19:51:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100092
+100094,cust_1047,True,Sun Mar 01 19:58:00 +0000 2026,"@AmazonHelp charged twice for order 154544899, please refund the duplicate immediately i'm calling my lawyer if this isn't fixed today",100095,
+100095,AmazonHelp,False,Sun Mar 01 20:05:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100094
+100096,cust_1048,True,Sun Mar 01 20:12:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100097,
+100097,AmazonHelp,False,Sun Mar 01 20:19:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100096
+100098,cust_1049,True,Sun Mar 01 20:26:00 +0000 2026,"@AmazonHelp package for 180792472 says delivered but nothing on my porch, been 4 days now",100099,
+100099,AmazonHelp,False,Sun Mar 01 20:33:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100098
+100100,cust_1050,True,Sun Mar 01 20:40:00 +0000 2026,@AmazonHelp is order 561479973 still on track for the delivery date shown?,100101,
+100101,AmazonHelp,False,Sun Mar 01 20:47:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100100
+100102,cust_1051,True,Sun Mar 01 20:54:00 +0000 2026,"@AmazonHelp i returned item from order 484194737 2 weeks ago, refund never came",100103,
+100103,AmazonHelp,False,Sun Mar 01 21:01:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100102
+100104,cust_1052,True,Sun Mar 01 21:08:00 +0000 2026,"@AmazonHelp got the wrong item for order 766430218, ordered a charger got headphones",100105,
+100105,AmazonHelp,False,Sun Mar 01 21:15:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100104
+100106,cust_1053,True,Sun Mar 01 21:22:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100107,
+100107,AmazonHelp,False,Sun Mar 01 21:29:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100106
+100108,cust_1054,True,Sun Mar 01 21:36:00 +0000 2026,@AmazonHelp why was i charged $19.00 more than the price shown at checkout for 510751046,100109,
+100109,AmazonHelp,False,Sun Mar 01 21:43:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100108
+100110,cust_1055,True,Sun Mar 01 21:50:00 +0000 2026,"@AmazonHelp just wanted to say the packaging for 475442872 was excellent, thank you",100111,
+100111,AmazonHelp,False,Sun Mar 01 21:57:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100110
+100112,cust_1056,True,Sun Mar 01 22:04:00 +0000 2026,"@AmazonHelp package for 452468587 says delivered but nothing on my porch, been 6 days now",100113,
+100113,AmazonHelp,False,Sun Mar 01 22:11:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100112
+100114,cust_1057,True,Sun Mar 01 22:18:00 +0000 2026,@AmazonHelp is order 829627019 still on track for the delivery date shown?,100115,
+100115,AmazonHelp,False,Sun Mar 01 22:25:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100114
+100116,cust_1058,True,Sun Mar 01 22:32:00 +0000 2026,"@AmazonHelp requesting a refund for 141078352, item not as described",100117,
+100117,AmazonHelp,False,Sun Mar 01 22:39:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100116
+100118,cust_1059,True,Sun Mar 01 22:46:00 +0000 2026,"@AmazonHelp got the wrong item for order 568574364, ordered a charger got headphones",100119,
+100119,AmazonHelp,False,Sun Mar 01 22:53:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100118
+100120,cust_1060,True,Sun Mar 01 23:00:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100121,
+100121,AmazonHelp,False,Sun Mar 01 23:07:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100120
+100122,cust_1061,True,Sun Mar 01 23:14:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100123,
+100123,AmazonHelp,False,Sun Mar 01 23:21:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100122
+100124,cust_1062,True,Sun Mar 01 23:28:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100125,
+100125,AmazonHelp,False,Sun Mar 01 23:35:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100124
+100126,cust_1063,True,Sun Mar 01 23:42:00 +0000 2026,"@AmazonHelp package for 507104143 says delivered but nothing on my porch, been 4 days now",100127,
+100127,AmazonHelp,False,Sun Mar 01 23:49:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100126
+100128,cust_1064,True,Sun Mar 01 23:56:00 +0000 2026,@AmazonHelp is order 426283245 still on track for the delivery date shown?,100129,
+100129,AmazonHelp,False,Mon Mar 02 00:03:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100128
+100130,cust_1065,True,Mon Mar 02 00:10:00 +0000 2026,"@AmazonHelp how do i return 825449223, wrong size and box is unopened",100131,
+100131,AmazonHelp,False,Mon Mar 02 00:17:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100130
+100132,cust_1066,True,Mon Mar 02 00:24:00 +0000 2026,"@AmazonHelp 653462378 came damaged, this is the 2nd time this has happened",100133,
+100133,AmazonHelp,False,Mon Mar 02 00:31:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100132
+100134,cust_1067,True,Mon Mar 02 00:38:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked?",100135,
+100135,AmazonHelp,False,Mon Mar 02 00:45:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100134
+100136,cust_1068,True,Mon Mar 02 00:52:00 +0000 2026,@AmazonHelp still being charged for a subscription i cancelled last month,100137,
+100137,AmazonHelp,False,Mon Mar 02 00:59:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100136
+100138,cust_1069,True,Mon Mar 02 01:06:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100139,
+100139,AmazonHelp,False,Mon Mar 02 01:13:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100138
+100140,cust_1070,True,Mon Mar 02 01:20:00 +0000 2026,"@AmazonHelp tracking hasn't updated in 9 days for order 656152900, is it lost??",100141,
+100141,AmazonHelp,False,Mon Mar 02 01:27:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100140
+100142,cust_1071,True,Mon Mar 02 01:34:00 +0000 2026,@AmazonHelp is order 590122159 still on track for the delivery date shown?,100143,
+100143,AmazonHelp,False,Mon Mar 02 01:41:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100142
+100144,cust_1072,True,Mon Mar 02 01:48:00 +0000 2026,"@AmazonHelp how do i return 757830420, wrong size and box is unopened",100145,
+100145,AmazonHelp,False,Mon Mar 02 01:55:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100144
+100146,cust_1073,True,Mon Mar 02 02:02:00 +0000 2026,"@AmazonHelp 583258726 came damaged, this is the 2nd time this has happened",100147,
+100147,AmazonHelp,False,Mon Mar 02 02:09:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100146
+100148,cust_1074,True,Mon Mar 02 02:16:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100149,
+100149,AmazonHelp,False,Mon Mar 02 02:23:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100148
+100150,cust_1075,True,Mon Mar 02 02:30:00 +0000 2026,"@AmazonHelp charged twice for order 391751878, please refund the duplicate immediately",100151,
+100151,AmazonHelp,False,Mon Mar 02 02:37:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100150
+100152,cust_1076,True,Mon Mar 02 02:44:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100153,
+100153,AmazonHelp,False,Mon Mar 02 02:51:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100152
+100154,cust_1077,True,Mon Mar 02 02:58:00 +0000 2026,"still waiting on 600282414, 8 days late @AmazonHelp this is ridiculous for a prime order",100155,
+100155,AmazonHelp,False,Mon Mar 02 03:05:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100154
+100156,cust_1078,True,Mon Mar 02 03:12:00 +0000 2026,@AmazonHelp quick q - has 846812123 shipped yet? i want to speak to a real human right now,100157,
+100157,AmazonHelp,False,Mon Mar 02 03:19:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100156
+100158,cust_1079,True,Mon Mar 02 03:26:00 +0000 2026,"@AmazonHelp how do i return 909037759, wrong size and box is unopened",100159,
+100159,AmazonHelp,False,Mon Mar 02 03:33:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100158
+100160,cust_1080,True,Mon Mar 02 03:40:00 +0000 2026,"@AmazonHelp 567975319 came damaged, this is the 2nd time this has happened",100161,
+100161,AmazonHelp,False,Mon Mar 02 03:47:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100160
+100162,cust_1081,True,Mon Mar 02 03:54:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100163,
+100163,AmazonHelp,False,Mon Mar 02 04:01:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100162
+100164,cust_1082,True,Mon Mar 02 04:08:00 +0000 2026,@AmazonHelp why was i charged $7.50 more than the price shown at checkout for 190137896 this is fraud and i'm disputing it with my bank,100165,
+100165,AmazonHelp,False,Mon Mar 02 04:15:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100164
+100166,cust_1083,True,Mon Mar 02 04:22:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100167,
+100167,AmazonHelp,False,Mon Mar 02 04:29:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100166
+100168,cust_1084,True,Mon Mar 02 04:36:00 +0000 2026,@AmazonHelp my order #370874491 was supposed to arrive 3 days ago and it's still not here. what's going on,100169,
+100169,AmazonHelp,False,Mon Mar 02 04:43:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100168
+100170,cust_1085,True,Mon Mar 02 04:50:00 +0000 2026,@AmazonHelp when will 340756713 ship? no update since i ordered,100171,
+100171,AmazonHelp,False,Mon Mar 02 04:57:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100170
+100172,cust_1086,True,Mon Mar 02 05:04:00 +0000 2026,"@AmazonHelp return label for 767154083 isn't working, can you resend",100173,
+100173,AmazonHelp,False,Mon Mar 02 05:11:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100172
+100174,cust_1087,True,Mon Mar 02 05:18:00 +0000 2026,"@AmazonHelp order 599326438 arrived completely smashed, packaging was fine but item is broken",100175,
+100175,AmazonHelp,False,Mon Mar 02 05:25:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100174
+100176,cust_1088,True,Mon Mar 02 05:32:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100177,
+100177,AmazonHelp,False,Mon Mar 02 05:39:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100176
+100178,cust_1089,True,Mon Mar 02 05:46:00 +0000 2026,@AmazonHelp why was i charged $4.99 more than the price shown at checkout for 525904456 i want to speak to a real human right now,100179,
+100179,AmazonHelp,False,Mon Mar 02 05:53:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100178
+100180,cust_1090,True,Mon Mar 02 06:00:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100181,
+100181,AmazonHelp,False,Mon Mar 02 06:07:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100180
+100182,cust_1091,True,Mon Mar 02 06:14:00 +0000 2026,"still waiting on 643271261, 7 days late @AmazonHelp this is ridiculous for a prime order i want to speak to a real human right now",100183,
+100183,AmazonHelp,False,Mon Mar 02 06:21:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100182
+100184,cust_1092,True,Mon Mar 02 06:28:00 +0000 2026,@AmazonHelp when will 989817696 ship? no update since i ordered,100185,
+100185,AmazonHelp,False,Mon Mar 02 06:35:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100184
+100186,cust_1093,True,Mon Mar 02 06:42:00 +0000 2026,"@AmazonHelp requesting a refund for 761330848, item not as described",100187,
+100187,AmazonHelp,False,Mon Mar 02 06:49:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100186
+100188,cust_1094,True,Mon Mar 02 06:56:00 +0000 2026,"@AmazonHelp got the wrong item for order 991990632, ordered a charger got headphones",100189,
+100189,AmazonHelp,False,Mon Mar 02 07:03:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100188
+100190,cust_1095,True,Mon Mar 02 07:10:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100191,
+100191,AmazonHelp,False,Mon Mar 02 07:17:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100190
+100192,cust_1096,True,Mon Mar 02 07:24:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100193,
+100193,AmazonHelp,False,Mon Mar 02 07:31:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100192
+100194,cust_1097,True,Mon Mar 02 07:38:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100195,
+100195,AmazonHelp,False,Mon Mar 02 07:45:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100194
+100196,cust_1098,True,Mon Mar 02 07:52:00 +0000 2026,@AmazonHelp my order #864334960 was supposed to arrive 9 days ago and it's still not here. what's going on,100197,
+100197,AmazonHelp,False,Mon Mar 02 07:59:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100196
+100198,cust_1099,True,Mon Mar 02 08:06:00 +0000 2026,@AmazonHelp is order 842800803 still on track for the delivery date shown?,100199,
+100199,AmazonHelp,False,Mon Mar 02 08:13:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100198
+100200,cust_1100,True,Mon Mar 02 08:20:00 +0000 2026,"@AmazonHelp return label for 556881239 isn't working, can you resend",100201,
+100201,AmazonHelp,False,Mon Mar 02 08:27:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100200
+100202,cust_1101,True,Mon Mar 02 08:34:00 +0000 2026,"@AmazonHelp order 347538338 arrived completely smashed, packaging was fine but item is broken",100203,
+100203,AmazonHelp,False,Mon Mar 02 08:41:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100202
+100204,cust_1102,True,Mon Mar 02 08:48:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100205,
+100205,AmazonHelp,False,Mon Mar 02 08:55:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100204
+100206,cust_1103,True,Mon Mar 02 09:02:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed i will never order from you again, cancel everything",100207,
+100207,AmazonHelp,False,Mon Mar 02 09:09:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100206
+100208,cust_1104,True,Mon Mar 02 09:16:00 +0000 2026,"@AmazonHelp love the new app update, checkout is so much faster now",100209,
+100209,AmazonHelp,False,Mon Mar 02 09:23:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100208
+100210,cust_1105,True,Mon Mar 02 09:30:00 +0000 2026,"@AmazonHelp package for 784907325 says delivered but nothing on my porch, been 9 days now",100211,
+100211,AmazonHelp,False,Mon Mar 02 09:37:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100210
+100212,cust_1106,True,Mon Mar 02 09:44:00 +0000 2026,"@AmazonHelp quick q - has 465830215 shipped yet? this is the last straw, get me a manager",100213,
+100213,AmazonHelp,False,Mon Mar 02 09:51:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100212
+100214,cust_1107,True,Mon Mar 02 09:58:00 +0000 2026,"@AmazonHelp i returned item from order 628008852 2 weeks ago, refund never came",100215,
+100215,AmazonHelp,False,Mon Mar 02 10:05:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100214
+100216,cust_1108,True,Mon Mar 02 10:12:00 +0000 2026,"@AmazonHelp box for 191462297 was empty when i opened it, no product inside",100217,
+100217,AmazonHelp,False,Mon Mar 02 10:19:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100216
+100218,cust_1109,True,Mon Mar 02 10:26:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100219,
+100219,AmazonHelp,False,Mon Mar 02 10:33:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100218
+100220,cust_1110,True,Mon Mar 02 10:40:00 +0000 2026,"@AmazonHelp charged twice for order 427899537, please refund the duplicate immediately",100221,
+100221,AmazonHelp,False,Mon Mar 02 10:47:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100220
+100222,cust_1111,True,Mon Mar 02 10:54:00 +0000 2026,"@AmazonHelp just wanted to say the packaging for 771641650 was excellent, thank you",100223,
+100223,AmazonHelp,False,Mon Mar 02 11:01:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100222
+100224,cust_1112,True,Mon Mar 02 11:08:00 +0000 2026,"still waiting on 692697161, 3 days late @AmazonHelp this is ridiculous for a prime order",100225,
+100225,AmazonHelp,False,Mon Mar 02 11:15:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100224
+100226,cust_1113,True,Mon Mar 02 11:22:00 +0000 2026,@AmazonHelp is order 604564682 still on track for the delivery date shown?,100227,
+100227,AmazonHelp,False,Mon Mar 02 11:29:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100226
+100228,cust_1114,True,Mon Mar 02 11:36:00 +0000 2026,"@AmazonHelp how do i return 176428684, wrong size and box is unopened",100229,
+100229,AmazonHelp,False,Mon Mar 02 11:43:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100228
+100230,cust_1115,True,Mon Mar 02 11:50:00 +0000 2026,"@AmazonHelp order 795392488 arrived completely smashed, packaging was fine but item is broken i want to speak to a real human right now",100231,
+100231,AmazonHelp,False,Mon Mar 02 11:57:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100230
+100232,cust_1116,True,Mon Mar 02 12:04:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100233,
+100233,AmazonHelp,False,Mon Mar 02 12:11:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100232
+100234,cust_1117,True,Mon Mar 02 12:18:00 +0000 2026,"@AmazonHelp charged twice for order 637377910, please refund the duplicate immediately",100235,
+100235,AmazonHelp,False,Mon Mar 02 12:25:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100234
+100236,cust_1118,True,Mon Mar 02 12:32:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100237,
+100237,AmazonHelp,False,Mon Mar 02 12:39:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100236
+100238,cust_1119,True,Mon Mar 02 12:46:00 +0000 2026,@AmazonHelp my order #730418447 was supposed to arrive 2 days ago and it's still not here. what's going on,100239,
+100239,AmazonHelp,False,Mon Mar 02 12:53:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100238
+100240,cust_1120,True,Mon Mar 02 13:00:00 +0000 2026,@AmazonHelp quick q - has 605196410 shipped yet?,100241,
+100241,AmazonHelp,False,Mon Mar 02 13:07:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100240
+100242,cust_1121,True,Mon Mar 02 13:14:00 +0000 2026,"@AmazonHelp requesting a refund for 197970787, item not as described",100243,
+100243,AmazonHelp,False,Mon Mar 02 13:21:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100242
+100244,cust_1122,True,Mon Mar 02 13:28:00 +0000 2026,"@AmazonHelp box for 272684373 was empty when i opened it, no product inside",100245,
+100245,AmazonHelp,False,Mon Mar 02 13:35:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100244
+100246,cust_1123,True,Mon Mar 02 13:42:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100247,
+100247,AmazonHelp,False,Mon Mar 02 13:49:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100246
+100248,cust_1124,True,Mon Mar 02 13:56:00 +0000 2026,@AmazonHelp still being charged for a subscription i cancelled last month,100249,
+100249,AmazonHelp,False,Mon Mar 02 14:03:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100248
+100250,cust_1125,True,Mon Mar 02 14:10:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100251,
+100251,AmazonHelp,False,Mon Mar 02 14:17:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100250
+100252,cust_1126,True,Mon Mar 02 14:24:00 +0000 2026,"still waiting on 386749454, 4 days late @AmazonHelp this is ridiculous for a prime order",100253,
+100253,AmazonHelp,False,Mon Mar 02 14:31:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100252
+100254,cust_1127,True,Mon Mar 02 14:38:00 +0000 2026,@AmazonHelp hey can you tell me the status of order 753770973? placed it last week,100255,
+100255,AmazonHelp,False,Mon Mar 02 14:45:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100254
+100256,cust_1128,True,Mon Mar 02 14:52:00 +0000 2026,"@AmazonHelp how do i return 341270488, wrong size and box is unopened",100257,
+100257,AmazonHelp,False,Mon Mar 02 14:59:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100256
+100258,cust_1129,True,Mon Mar 02 15:06:00 +0000 2026,"@AmazonHelp box for 646397165 was empty when i opened it, no product inside",100259,
+100259,AmazonHelp,False,Mon Mar 02 15:13:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100258
+100260,cust_1130,True,Mon Mar 02 15:20:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100261,
+100261,AmazonHelp,False,Mon Mar 02 15:27:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100260
+100262,cust_1131,True,Mon Mar 02 15:34:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100263,
+100263,AmazonHelp,False,Mon Mar 02 15:41:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100262
+100264,cust_1132,True,Mon Mar 02 15:48:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100265,
+100265,AmazonHelp,False,Mon Mar 02 15:55:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100264
+100266,cust_1133,True,Mon Mar 02 16:02:00 +0000 2026,"still waiting on 678296492, 9 days late @AmazonHelp this is ridiculous for a prime order",100267,
+100267,AmazonHelp,False,Mon Mar 02 16:09:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100266
+100268,cust_1134,True,Mon Mar 02 16:16:00 +0000 2026,@AmazonHelp when will 302563940 ship? no update since i ordered,100269,
+100269,AmazonHelp,False,Mon Mar 02 16:23:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100268
+100270,cust_1135,True,Mon Mar 02 16:30:00 +0000 2026,"@AmazonHelp return label for 146865930 isn't working, can you resend",100271,
+100271,AmazonHelp,False,Mon Mar 02 16:37:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100270
+100272,cust_1136,True,Mon Mar 02 16:44:00 +0000 2026,"@AmazonHelp 631855083 came damaged, this is the 2nd time this has happened",100273,
+100273,AmazonHelp,False,Mon Mar 02 16:51:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100272
+100274,cust_1137,True,Mon Mar 02 16:58:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100275,
+100275,AmazonHelp,False,Mon Mar 02 17:05:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100274
+100276,cust_1138,True,Mon Mar 02 17:12:00 +0000 2026,@AmazonHelp still being charged for a subscription i cancelled last month,100277,
+100277,AmazonHelp,False,Mon Mar 02 17:19:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100276
+100278,cust_1139,True,Mon Mar 02 17:26:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100279,
+100279,AmazonHelp,False,Mon Mar 02 17:33:00 +0000 2026,"Thank you so much for the kind words, we'll pass it along to the team! 😊 ^AR",,100278
+100280,cust_1140,True,Mon Mar 02 17:40:00 +0000 2026,"@AmazonHelp package for 762992051 says delivered but nothing on my porch, been 3 days now",100281,
+100281,AmazonHelp,False,Mon Mar 02 17:47:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100280
+100282,cust_1141,True,Mon Mar 02 17:54:00 +0000 2026,@AmazonHelp hey can you tell me the status of order 197044071? placed it last week,100283,
+100283,AmazonHelp,False,Mon Mar 02 18:01:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100282
+100284,cust_1142,True,Mon Mar 02 18:08:00 +0000 2026,"@AmazonHelp requesting a refund for 131081879, item not as described",100285,
+100285,AmazonHelp,False,Mon Mar 02 18:15:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100284
+100286,cust_1143,True,Mon Mar 02 18:22:00 +0000 2026,"@AmazonHelp got the wrong item for order 256304376, ordered a charger got headphones",100287,
+100287,AmazonHelp,False,Mon Mar 02 18:29:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100286
+100288,cust_1144,True,Mon Mar 02 18:36:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100289,
+100289,AmazonHelp,False,Mon Mar 02 18:43:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100288
+100290,cust_1145,True,Mon Mar 02 18:50:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100291,
+100291,AmazonHelp,False,Mon Mar 02 18:57:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100290
+100292,cust_1146,True,Mon Mar 02 19:04:00 +0000 2026,"@AmazonHelp love the new app update, checkout is so much faster now",100293,
+100293,AmazonHelp,False,Mon Mar 02 19:11:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100292
+100294,cust_1147,True,Mon Mar 02 19:18:00 +0000 2026,"@AmazonHelp package for 786055206 says delivered but nothing on my porch, been 8 days now",100295,
+100295,AmazonHelp,False,Mon Mar 02 19:25:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100294
+100296,cust_1148,True,Mon Mar 02 19:32:00 +0000 2026,@AmazonHelp is order 618840705 still on track for the delivery date shown?,100297,
+100297,AmazonHelp,False,Mon Mar 02 19:39:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100296
+100298,cust_1149,True,Mon Mar 02 19:46:00 +0000 2026,"@AmazonHelp i returned item from order 123557463 2 weeks ago, refund never came",100299,
+100299,AmazonHelp,False,Mon Mar 02 19:53:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100298
+100300,cust_1150,True,Mon Mar 02 20:00:00 +0000 2026,"@AmazonHelp 994253959 came damaged, this is the 2nd time this has happened",100301,
+100301,AmazonHelp,False,Mon Mar 02 20:07:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100300
+100302,cust_1151,True,Mon Mar 02 20:14:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100303,
+100303,AmazonHelp,False,Mon Mar 02 20:21:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100302
+100304,cust_1152,True,Mon Mar 02 20:28:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100305,
+100305,AmazonHelp,False,Mon Mar 02 20:35:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100304
+100306,cust_1153,True,Mon Mar 02 20:42:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100307,
+100307,AmazonHelp,False,Mon Mar 02 20:49:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100306
+100308,cust_1154,True,Mon Mar 02 20:56:00 +0000 2026,"still waiting on 492836532, 6 days late @AmazonHelp this is ridiculous for a prime order",100309,
+100309,AmazonHelp,False,Mon Mar 02 21:03:00 +0000 2026,That's not the experience we want for you. Can you DM us the order # so we can check with the carrier and get this resolved? ^AR,,100308
+100310,cust_1155,True,Mon Mar 02 21:10:00 +0000 2026,@AmazonHelp hey can you tell me the status of order 901611993? placed it last week,100311,
+100311,AmazonHelp,False,Mon Mar 02 21:17:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100310
+100312,cust_1156,True,Mon Mar 02 21:24:00 +0000 2026,"@AmazonHelp i returned item from order 826197069 2 weeks ago, refund never came",100313,
+100313,AmazonHelp,False,Mon Mar 02 21:31:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100312
+100314,cust_1157,True,Mon Mar 02 21:38:00 +0000 2026,"@AmazonHelp 383960237 came damaged, this is the 2nd time this has happened",100315,
+100315,AmazonHelp,False,Mon Mar 02 21:45:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100314
+100316,cust_1158,True,Mon Mar 02 21:52:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100317,
+100317,AmazonHelp,False,Mon Mar 02 21:59:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100316
+100318,cust_1159,True,Mon Mar 02 22:06:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100319,
+100319,AmazonHelp,False,Mon Mar 02 22:13:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100318
+100320,cust_1160,True,Mon Mar 02 22:20:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise i'm calling my lawyer if this isn't fixed today",100321,
+100321,AmazonHelp,False,Mon Mar 02 22:27:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100320
+100322,cust_1161,True,Mon Mar 02 22:34:00 +0000 2026,"still waiting on 245668163, 8 days late @AmazonHelp this is ridiculous for a prime order",100323,
+100323,AmazonHelp,False,Mon Mar 02 22:41:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100322
+100324,cust_1162,True,Mon Mar 02 22:48:00 +0000 2026,@AmazonHelp quick q - has 265917699 shipped yet?,100325,
+100325,AmazonHelp,False,Mon Mar 02 22:55:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100324
+100326,cust_1163,True,Mon Mar 02 23:02:00 +0000 2026,"@AmazonHelp return label for 135128844 isn't working, can you resend",100327,
+100327,AmazonHelp,False,Mon Mar 02 23:09:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100326
+100328,cust_1164,True,Mon Mar 02 23:16:00 +0000 2026,"@AmazonHelp 206681214 came damaged, this is the 2nd time this has happened i want to speak to a real human right now",100329,
+100329,AmazonHelp,False,Mon Mar 02 23:23:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100328
+100330,cust_1165,True,Mon Mar 02 23:30:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100331,
+100331,AmazonHelp,False,Mon Mar 02 23:37:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100330
+100332,cust_1166,True,Mon Mar 02 23:44:00 +0000 2026,"@AmazonHelp why was i charged $7.00 more than the price shown at checkout for 154308262 i will never order from you again, cancel everything",100333,
+100333,AmazonHelp,False,Mon Mar 02 23:51:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100332
+100334,cust_1167,True,Mon Mar 02 23:58:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100335,
+100335,AmazonHelp,False,Tue Mar 03 00:05:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100334
+100336,cust_1168,True,Tue Mar 03 00:12:00 +0000 2026,"@AmazonHelp package for 103044648 says delivered but nothing on my porch, been 6 days now",100337,
+100337,AmazonHelp,False,Tue Mar 03 00:19:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100336
+100338,cust_1169,True,Tue Mar 03 00:26:00 +0000 2026,@AmazonHelp is order 809805235 still on track for the delivery date shown?,100339,
+100339,AmazonHelp,False,Tue Mar 03 00:33:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100338
+100340,cust_1170,True,Tue Mar 03 00:40:00 +0000 2026,"@AmazonHelp requesting a refund for 732276010, item not as described this is fraud and i'm disputing it with my bank",100341,
+100341,AmazonHelp,False,Tue Mar 03 00:47:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100340
+100342,cust_1171,True,Tue Mar 03 00:54:00 +0000 2026,"@AmazonHelp 900651998 came damaged, this is the 2nd time this has happened",100343,
+100343,AmazonHelp,False,Tue Mar 03 01:01:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100342
+100344,cust_1172,True,Tue Mar 03 01:08:00 +0000 2026,"@AmazonHelp 2FA code never arrives, locked out of my account for 2 days now",100345,
+100345,AmazonHelp,False,Tue Mar 03 01:15:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100344
+100346,cust_1173,True,Tue Mar 03 01:22:00 +0000 2026,"@AmazonHelp charged twice for order 165310776, please refund the duplicate immediately",100347,
+100347,AmazonHelp,False,Tue Mar 03 01:29:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100346
+100348,cust_1174,True,Tue Mar 03 01:36:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed i want to speak to a real human right now",100349,
+100349,AmazonHelp,False,Tue Mar 03 01:43:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100348
+100350,cust_1175,True,Tue Mar 03 01:50:00 +0000 2026,"@AmazonHelp package for 779760958 says delivered but nothing on my porch, been 7 days now",100351,
+100351,AmazonHelp,False,Tue Mar 03 01:57:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100350
+100352,cust_1176,True,Tue Mar 03 02:04:00 +0000 2026,@AmazonHelp when will 561923010 ship? no update since i ordered,100353,
+100353,AmazonHelp,False,Tue Mar 03 02:11:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100352
+100354,cust_1177,True,Tue Mar 03 02:18:00 +0000 2026,"@AmazonHelp return label for 544328940 isn't working, can you resend",100355,
+100355,AmazonHelp,False,Tue Mar 03 02:25:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100354
+100356,cust_1178,True,Tue Mar 03 02:32:00 +0000 2026,"@AmazonHelp got the wrong item for order 558234365, ordered a charger got headphones",100357,
+100357,AmazonHelp,False,Tue Mar 03 02:39:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100356
+100358,cust_1179,True,Tue Mar 03 02:46:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked? i want to speak to a real human right now",100359,
+100359,AmazonHelp,False,Tue Mar 03 02:53:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100358
+100360,cust_1180,True,Tue Mar 03 03:00:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100361,
+100361,AmazonHelp,False,Tue Mar 03 03:07:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100360
+100362,cust_1181,True,Tue Mar 03 03:14:00 +0000 2026,"@AmazonHelp love the new app update, checkout is so much faster now",100363,
+100363,AmazonHelp,False,Tue Mar 03 03:21:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100362
+100364,cust_1182,True,Tue Mar 03 03:28:00 +0000 2026,"still waiting on 644830077, 5 days late @AmazonHelp this is ridiculous for a prime order",100365,
+100365,AmazonHelp,False,Tue Mar 03 03:35:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100364
+100366,cust_1183,True,Tue Mar 03 03:42:00 +0000 2026,@AmazonHelp when will 475932035 ship? no update since i ordered,100367,
+100367,AmazonHelp,False,Tue Mar 03 03:49:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100366
+100368,cust_1184,True,Tue Mar 03 03:56:00 +0000 2026,"@AmazonHelp requesting a refund for 753903309, item not as described",100369,
+100369,AmazonHelp,False,Tue Mar 03 04:03:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100368
+100370,cust_1185,True,Tue Mar 03 04:10:00 +0000 2026,"@AmazonHelp got the wrong item for order 464883950, ordered a charger got headphones",100371,
+100371,AmazonHelp,False,Tue Mar 03 04:17:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100370
+100372,cust_1186,True,Tue Mar 03 04:24:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100373,
+100373,AmazonHelp,False,Tue Mar 03 04:31:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100372
+100374,cust_1187,True,Tue Mar 03 04:38:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100375,
+100375,AmazonHelp,False,Tue Mar 03 04:45:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100374
+100376,cust_1188,True,Tue Mar 03 04:52:00 +0000 2026,"@AmazonHelp just wanted to say the packaging for 156488296 was excellent, thank you",100377,
+100377,AmazonHelp,False,Tue Mar 03 04:59:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100376
+100378,cust_1189,True,Tue Mar 03 05:06:00 +0000 2026,"still waiting on 575788930, 8 days late @AmazonHelp this is ridiculous for a prime order",100379,
+100379,AmazonHelp,False,Tue Mar 03 05:13:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100378
+100380,cust_1190,True,Tue Mar 03 05:20:00 +0000 2026,@AmazonHelp hey can you tell me the status of order 910614025? placed it last week,100381,
+100381,AmazonHelp,False,Tue Mar 03 05:27:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100380
+100382,cust_1191,True,Tue Mar 03 05:34:00 +0000 2026,"@AmazonHelp return label for 665791188 isn't working, can you resend",100383,
+100383,AmazonHelp,False,Tue Mar 03 05:41:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100382
+100384,cust_1192,True,Tue Mar 03 05:48:00 +0000 2026,"@AmazonHelp got the wrong item for order 108253947, ordered a charger got headphones",100385,
+100385,AmazonHelp,False,Tue Mar 03 05:55:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100384
+100386,cust_1193,True,Tue Mar 03 06:02:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked?",100387,
+100387,AmazonHelp,False,Tue Mar 03 06:09:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100386
+100388,cust_1194,True,Tue Mar 03 06:16:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed this is the last straw, get me a manager",100389,
+100389,AmazonHelp,False,Tue Mar 03 06:23:00 +0000 2026,We'll get this sorted -- DM us the order/transaction details so our billing team can review the duplicate charge. ^KL,,100388
+100390,cust_1195,True,Tue Mar 03 06:30:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100391,
+100391,AmazonHelp,False,Tue Mar 03 06:37:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100390
+100392,cust_1196,True,Tue Mar 03 06:44:00 +0000 2026,"still waiting on 787346882, 8 days late @AmazonHelp this is ridiculous for a prime order i want to speak to a real human right now",100393,
+100393,AmazonHelp,False,Tue Mar 03 06:51:00 +0000 2026,We're sorry for the delay! Please send us your order number and delivery zip via DM so we can look into the carrier status right away. ^KL,,100392
+100394,cust_1197,True,Tue Mar 03 06:58:00 +0000 2026,@AmazonHelp quick q - has 960413104 shipped yet?,100395,
+100395,AmazonHelp,False,Tue Mar 03 07:05:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100394
+100396,cust_1198,True,Tue Mar 03 07:12:00 +0000 2026,"@AmazonHelp return label for 567804106 isn't working, can you resend",100397,
+100397,AmazonHelp,False,Tue Mar 03 07:19:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100396
+100398,cust_1199,True,Tue Mar 03 07:26:00 +0000 2026,"@AmazonHelp order 337911187 arrived completely smashed, packaging was fine but item is broken",100399,
+100399,AmazonHelp,False,Tue Mar 03 07:33:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100398
+100400,cust_1200,True,Tue Mar 03 07:40:00 +0000 2026,"@AmazonHelp my account got locked after i tried to change my email, need help asap",100401,
+100401,AmazonHelp,False,Tue Mar 03 07:47:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100400
+100402,cust_1201,True,Tue Mar 03 07:54:00 +0000 2026,@AmazonHelp why was i charged $7.99 more than the price shown at checkout for 374843786,100403,
+100403,AmazonHelp,False,Tue Mar 03 08:01:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100402
+100404,cust_1202,True,Tue Mar 03 08:08:00 +0000 2026,"@AmazonHelp your customer service rep today was incredibly helpful, give them a raise",100405,
+100405,AmazonHelp,False,Tue Mar 03 08:15:00 +0000 2026,That's not the experience we want -- please DM us so we can make it right. ^MJ,,100404
+100406,cust_1203,True,Tue Mar 03 08:22:00 +0000 2026,"still waiting on 790407222, 7 days late @AmazonHelp this is ridiculous for a prime order this is fraud and i'm disputing it with my bank",100407,
+100407,AmazonHelp,False,Tue Mar 03 08:29:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100406
+100408,cust_1204,True,Tue Mar 03 08:36:00 +0000 2026,@AmazonHelp is order 425150964 still on track for the delivery date shown?,100409,
+100409,AmazonHelp,False,Tue Mar 03 08:43:00 +0000 2026,Sure thing -- send us the order number via DM and we'll confirm the current ship status. ^AR,,100408
+100410,cust_1205,True,Tue Mar 03 08:50:00 +0000 2026,"@AmazonHelp requesting a refund for 595792218, item not as described",100411,
+100411,AmazonHelp,False,Tue Mar 03 08:57:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100410
+100412,cust_1206,True,Tue Mar 03 09:04:00 +0000 2026,"@AmazonHelp box for 792205349 was empty when i opened it, no product inside",100413,
+100413,AmazonHelp,False,Tue Mar 03 09:11:00 +0000 2026,So sorry to hear that! Please DM your order number and a photo if possible -- we'll get a replacement or refund started right away. ^AR,,100412
+100414,cust_1207,True,Tue Mar 03 09:18:00 +0000 2026,"@AmazonHelp someone else's orders are showing up in my account, is my account hacked?",100415,
+100415,AmazonHelp,False,Tue Mar 03 09:25:00 +0000 2026,Sorry for the trouble logging in! Please DM us (without sharing your password) so we can verify your account and help you back in. ^KL,,100414
+100416,cust_1208,True,Tue Mar 03 09:32:00 +0000 2026,"@AmazonHelp charged twice for order 583745511, please refund the duplicate immediately",100417,
+100417,AmazonHelp,False,Tue Mar 03 09:39:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100416
+100418,cust_1209,True,Tue Mar 03 09:46:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100419,
+100419,AmazonHelp,False,Tue Mar 03 09:53:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100418
+100420,cust_1210,True,Tue Mar 03 10:00:00 +0000 2026,@AmazonHelp my order #515985367 was supposed to arrive 8 days ago and it's still not here. what's going on,100421,
+100421,AmazonHelp,False,Tue Mar 03 10:07:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100420
+100422,cust_1211,True,Tue Mar 03 10:14:00 +0000 2026,@AmazonHelp quick q - has 459327003 shipped yet?,100423,
+100423,AmazonHelp,False,Tue Mar 03 10:21:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100422
+100424,cust_1212,True,Tue Mar 03 10:28:00 +0000 2026,"@AmazonHelp how do i return 457944766, wrong size and box is unopened",100425,
+100425,AmazonHelp,False,Tue Mar 03 10:35:00 +0000 2026,We can help with that -- DM us the order # so we can process the refund or resend your return label. ^KL,,100424
+100426,cust_1213,True,Tue Mar 03 10:42:00 +0000 2026,"@AmazonHelp order 804433388 arrived completely smashed, packaging was fine but item is broken",100427,
+100427,AmazonHelp,False,Tue Mar 03 10:49:00 +0000 2026,That's definitely not okay. DM us the order # and we'll arrange a free replacement or full refund. ^MJ,,100426
+100428,cust_1214,True,Tue Mar 03 10:56:00 +0000 2026,"@AmazonHelp can't log into my account, keeps saying password incorrect even after reset",100429,
+100429,AmazonHelp,False,Tue Mar 03 11:03:00 +0000 2026,We take account security seriously -- please DM us so we can verify a few details and restore access safely. ^AR,,100428
+100430,cust_1215,True,Tue Mar 03 11:10:00 +0000 2026,"@AmazonHelp there's a charge on my card i don't recognize, not from any order i placed",100431,
+100431,AmazonHelp,False,Tue Mar 03 11:17:00 +0000 2026,Sorry about that! Please DM your order number and the charge amount so we can investigate and issue a refund if it's an error. ^MJ,,100430
+100432,cust_1216,True,Tue Mar 03 11:24:00 +0000 2026,"@AmazonHelp not happy with how support handled my last ticket, felt dismissed",100433,
+100433,AmazonHelp,False,Tue Mar 03 11:31:00 +0000 2026,We really appreciate you taking the time to share this feedback! ^KL,,100432
+100434,cust_1217,True,Tue Mar 03 11:38:00 +0000 2026,@AmazonHelp my order #946237594 was supposed to arrive 3 days ago and it's still not here. what's going on,100435,
+100435,AmazonHelp,False,Tue Mar 03 11:45:00 +0000 2026,Apologies for the wait. We've flagged this with our logistics team -- please DM your order number so we can expedite a resolution. ^MJ,,100434
+100436,cust_1218,True,Tue Mar 03 11:52:00 +0000 2026,@AmazonHelp when will 240712839 ship? no update since i ordered,100437,
+100437,AmazonHelp,False,Tue Mar 03 11:59:00 +0000 2026,Happy to check that for you! Please DM your order number and we'll pull up the latest tracking status. ^KL,,100436
+100438,cust_1219,True,Tue Mar 03 12:06:00 +0000 2026,"@AmazonHelp requesting a refund for 874364348, item not as described",100439,
+100439,AmazonHelp,False,Tue Mar 03 12:13:00 +0000 2026,Sorry for the trouble! Please DM your order number and we'll check the refund status / send a fresh return label. ^MJ,,100438

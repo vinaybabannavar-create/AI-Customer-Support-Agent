@@ -1,0 +1,31 @@
+tweet_id,human_overall,human_notes
+100212,2,angry+explicit manager request not acknowledged at all; generic reply feels dismissive
+100092,2,asks for order number but this is an account/login issue with no order involved - wrong ask
+100058,3,reasonable generic ack; order number already in the tweet though so slightly redundant
+100082,1,positive feedback met with an apology - tonally wrong; should thank them instead
+100040,1,positive feedback met with an apology - tonally wrong; should thank them instead
+100416,4,appropriate ask for order number to investigate a duplicate charge
+100034,4,appropriate ask for order number for an empty-box complaint
+100400,2,account lockout issue; asking for order number is the wrong data point to request
+100030,3,reasonable generic ack for a status question
+100370,4,appropriate ask for order number for a wrong-item complaint
+100218,2,asks for order number but this is a 2FA/account issue - wrong ask
+100062,4,appropriate ask for order number for an empty-box complaint
+100406,2,customer is angry about a 7-day delay; reply does not acknowledge severity/urgency
+100352,3,reasonable generic ack for a status question
+100264,1,positive feedback met with an apology - tonally wrong
+100232,2,asks for order number but this is a 2FA/account issue - wrong ask
+100148,2,password reset issue; asking for order number is the wrong data point to request
+100002,2,angry+explicit manager request not acknowledged
+100154,2,customer explicitly says they will stop ordering; reply does not de-escalate at all
+100074,2,customer explicitly angry and cancelling; reply is too generic for the stakes here
+100000,4,appropriate ask for order number for a delivery-not-received complaint
+100422,3,reasonable generic ack for a status question
+100236,3,vague complaint about a past ticket; generic reply is a passable but weak recovery attempt
+100028,4,appropriate ask given delivery delay complaint already has order number in it
+100328,2,customer says this happened twice and wants to speak to someone; reply does not reflect that
+100382,4,appropriate ask/offer for a broken return label
+100008,2,"possible account compromise concern deserves security-specific language, not order number ask"
+100294,4,appropriate ask for order number for a delivery-not-received complaint
+100114,3,reasonable generic ack for a status question
+100428,2,password reset issue; asking for order number is the wrong data point to request

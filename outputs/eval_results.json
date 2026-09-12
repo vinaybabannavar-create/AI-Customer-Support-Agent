@@ -1,0 +1,92 @@
+{
+  "n_golden": 35,
+  "intent_accuracy": {
+    "agent": 0.457,
+    "trivial_baseline": 0.143,
+    "simple_baseline": 0.743
+  },
+  "agent_intent_breakdown": {
+    "delivery_delay": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.333,
+      "support": 5
+    },
+    "order_status_inquiry": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.889,
+      "support": 5
+    },
+    "refund_or_return": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.889,
+      "support": 5
+    },
+    "damaged_or_wrong_item": {
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1": 0.571,
+      "support": 5
+    },
+    "account_or_login_issue": {
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1": 0.571,
+      "support": 5
+    },
+    "billing_or_charge_dispute": {
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1": 0.75,
+      "support": 5
+    },
+    "general_feedback": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 5
+    }
+  },
+  "escalation_metrics": {
+    "agent": {
+      "precision": 0.167,
+      "recall": 1.0,
+      "f1": 0.286,
+      "accuracy": 0.286,
+      "tp": 5,
+      "fp": 25,
+      "fn": 0,
+      "tn": 5
+    },
+    "trivial_baseline": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 0.857,
+      "tp": 0,
+      "fp": 0,
+      "fn": 5,
+      "tn": 30
+    },
+    "simple_baseline": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "tn": 30
+    }
+  },
+  "reply_quality_judge_means": {
+    "grounded": 0.4,
+    "correct_intent_handling": 0.4,
+    "tone": 0.4,
+    "actionable": 0.4,
+    "overall": 0.4
+  },
+  "reply_quality_judge_n": 10
+}
