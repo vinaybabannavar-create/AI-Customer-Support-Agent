@@ -45,9 +45,20 @@ Grounding examples given to the drafting model:
 
 Drafted reply to judge: "{draft_reply}"
 """
-    raw = call_llm(JUDGE_SYSTEM_PROMPT, user, max_tokens=250)
+    # NOTE: max_tokens raised from 250 -> 500. At 250, Gemini's response
+    # (which ends with the free-text "rationale" field) was sometimes
+    # getting cut off mid-sentence, producing truncated/unparseable JSON --
+    # that's the leading suspect for the near-zero judge scores seen in
+    # outputs/eval_results.json. See README "Known issues" #2.
+    raw = call_llm(JUDGE_SYSTEM_PROMPT, user, max_tokens=500)
     try:
         return parse_json_object(raw)
     except Exception:
+        # Print the raw response so a parse failure is debuggable instead
+        # of silently collapsing to a 0 score -- set HIVER_DEBUG=0 to quiet
+        # this down once you've diagnosed the issue.
+        import os
+        if os.environ.get("HIVER_DEBUG", "1") != "0":
+            print(f"  [judge PARSE_ERROR] raw response was:\n  {raw!r}\n")
         return {"grounded": 0, "correct_intent_handling": 0, "tone": 0,
                 "actionable": 0, "overall": 0, "rationale": "PARSE_ERROR"}

@@ -1,27 +1,27 @@
 {
   "n": 7,
   "exact_match_rate": 0.0,
-  "within_1_point_rate": 0.0,
-  "pearson_r": 0.801,
+  "within_1_point_rate": 0.429,
+  "pearson_r": -0.636,
   "records": [
     {
       "tweet_id": "100400",
-      "judge_overall": 0,
+      "judge_overall": 4,
       "human_overall": 2
     },
     {
       "tweet_id": "100236",
-      "judge_overall": 0,
+      "judge_overall": 1,
       "human_overall": 3
     },
     {
       "tweet_id": "100008",
-      "judge_overall": 0,
+      "judge_overall": 4,
       "human_overall": 2
     },
     {
       "tweet_id": "100212",
-      "judge_overall": 0,
+      "judge_overall": 1,
       "human_overall": 2
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "tweet_id": "100406",
-      "judge_overall": 0,
+      "judge_overall": 3,
       "human_overall": 2
     },
     {
       "tweet_id": "100030",
-      "judge_overall": 0,
+      "judge_overall": 2,
       "human_overall": 3
     }
   ]

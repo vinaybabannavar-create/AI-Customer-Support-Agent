@@ -31,4 +31,10 @@ Historically similar resolved cases:
 {grounding_block}
 
 Write the reply now."""
-    return call_llm(SYSTEM_PROMPT, user, max_tokens=200).strip()
+    # NOTE: max_tokens raised from 200 -> 400. Some Gemini models reserve
+    # part of the token budget for internal reasoning before the visible
+    # reply text, which can silently truncate a short 200-token cap mid-
+    # sentence (see the "We" truncation caught during manual calibration
+    # labelling -- README "Known issues"). 400 gives real headroom for a
+    # 1-3 sentence reply plus that overhead.
+    return call_llm(SYSTEM_PROMPT, user, max_tokens=400).strip()
